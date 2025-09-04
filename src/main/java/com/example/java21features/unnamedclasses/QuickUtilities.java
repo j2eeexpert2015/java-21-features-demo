@@ -1,6 +1,7 @@
 package com.example.java21features.unnamedclasses;
 
 import java.util.Arrays;
+import java.util.List;
 import java.util.regex.Pattern;
 
 // Traditional utility class

@@ -2,6 +2,7 @@ package com.example.java21features.unnamedclasses;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 // Traditional prototyping class
